@@ -1,2 +1,3 @@
-# 100DAYS_of_python
-Daily Challenge – 100 Days of Code 
+# 100DAYS_of_DSA
+Daily Challenge – 100 Days of Code in c 
+
